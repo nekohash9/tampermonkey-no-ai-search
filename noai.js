@@ -4,7 +4,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2026-04-30
 // @author       You
-// @match        https://www.google.*/*
+// @match        https://www.google.com/search*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
